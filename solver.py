@@ -62,5 +62,5 @@ def valid(board: List[List[int]], pos: Tuple[int, int]):
 
 
 if __name__ == '__main__':
-    # Input your board size
-    generate_all_solutions(4)
+    # Input your board size between the parentheses
+    generate_all_solutions(8)
